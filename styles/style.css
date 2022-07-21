@@ -14,9 +14,9 @@ body {
 }
 
 
-/* ** Header Section Styles */
+/* ** Overall Header Section Styles */
 
-/* *** Animation *** */
+/* *** Animation section *** */
 @keyframes color-change {
   0% {
     background-color: #eb4d4b;
@@ -141,10 +141,10 @@ body {
 }
 
 
-/* * Main section Section 1*/
+/* * Core Section */
 
 
-/* ** Upcomming Events */
+/* ** Upcomming match */
 
 .upcoming-contents {
   width: 312px;
@@ -186,7 +186,7 @@ body {
 }
 
 
-/* ** Upcomming Events Ends*/
+/* ** Upcomming match Ends*/
 
 /* .card-content-illustration img {
   margin-bottom: 20px;
@@ -202,7 +202,7 @@ body {
   gap: 24px;
 }
 
-/* *** Card Contents *** */
+/* *** Card style Contents *** */
 
 
 .card-contents {
@@ -274,7 +274,7 @@ body {
   margin-right: 30px;
 }
 
-/* *** Card Contents Ends*** */
+/* *** Card style Contents Ends*** */
 
 
 .footer-section {
@@ -316,7 +316,7 @@ body {
   display: none;
 }
 
-/* **** Tablet Devices Style Sheet **** */
+/* **** Responsive Tablet Devices Style Sheet **** */
 
 
 @media only screen and (min-width: 768px) and (max-width: 992px) {
